@@ -68,6 +68,3 @@ function mymodule_delete_temp_files() {
 }
 
 This is a basic outline to get you started with hook_cron() in a custom Drupal module. Depending on your specific needs, you might need to delve deeper into Drupal’s API and best practices.
-
-hashtag#DrupalDevelopment hashtag#CustomModuleCreation hashtag#CronImplementation hashtag#ModuleSetup
-hashtag#DrupalCronJob
